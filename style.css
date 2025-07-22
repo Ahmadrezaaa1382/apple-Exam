@@ -42,6 +42,24 @@ nav li > a:hover {
     font-size: 1rem;
 }
 
+.icon1{
+    width: 129px;
+    height: 93px;
+    background-size: 129px 93px;
+    background-repeat: no-repeat;
+    background-image: url(hero_sticker_mba__b0ht7774wpaq_large.png);
+    position: absolute;
+}
+
+.icon2{
+    width: 129px;
+    height: 93px;
+    background-size: 129px 93px;
+    background-repeat: no-repeat;
+    background-image: url(hero_sticker_ipadair__bk6ffplndvte_large.png);
+    position: absolute;
+}
+
 /* Hero Section */
 #part1 {
     background-color: white;
@@ -309,14 +327,14 @@ nav li > a:hover {
 /* Footer Content */
 #matn {
     background-color: rgba(0, 0, 0, 0.05);
-    font-size: 0.6rem;
+    font-size: 0.7rem;
     padding: 20px 0;
     margin-top: 35px;
 }
 
 .textf {
     margin: 0 10%;
-    color: black;
+    color: rgba(0, 0, 0, 0.6);
     line-height: 1.5;
 }
 
@@ -325,6 +343,8 @@ nav li > a:hover {
     flex-wrap: wrap;
     background-color: rgba(0, 0, 0, 0.05);
     padding: 20px 10%;
+    line-height: 10px;
+    
 }
 
 .test {
@@ -336,8 +356,8 @@ nav li > a:hover {
 
 .testa {
     text-decoration: none;
-    font-size: 0.6rem;
-    color: black;
+    font-size: 0.7rem;
+    color: rgba(0, 0, 0, 0.7);
 }
 
 .pad {
@@ -355,7 +375,7 @@ nav li > a:hover {
 }
 
 .onet {
-    font-size: 0.6rem;
+    font-size: 0.7rem;
     margin: 0 10%;
 }
 
@@ -376,7 +396,7 @@ footer {
 }
 
 .Ftext {
-    font-size: 0.6rem;
+    font-size: 0.7rem;
     text-decoration: none;
     color: rgba(0, 0, 0, 0.6);
     margin: 5px 0;
